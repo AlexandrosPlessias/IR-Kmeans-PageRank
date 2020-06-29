@@ -1,0 +1,7 @@
+K-means in Mode 1 for first L(2174) terms.
+Loop number: ( DEPname , Euclidean Distance )...
+
+Loop #1: ( Moscholios , 14.337572 ) ( Boucouvalas , 0.0 ) ( Politi , 8.264335 ) ( Stavdas , 13.269783 ) ( Malamatos , 12.90863 ) ( Kolokotronis , 15.558409 ) ( Yiannopoulos , 10.421499 ) ( Maras , 10.3475685 ) ( Platis , 7.80417 ) ( Koutras , 13.519001 ) ( Athanasiadou , 12.155692 ) ( Tsoulos , 12.669492 ) ( Blionas , 11.565268 ) ( Vlachos , 4.2777343 ) 
+Loop #2: ( Moscholios , 14.38354 ) ( Boucouvalas , 0.0 ) ( Politi , 8.075292 ) ( Stavdas , 13.306938 ) ( Malamatos , 12.860025 ) ( Yiannopoulos , 10.359989 ) ( Maras , 10.22823 ) ( Platis , 7.541421 ) ( Koutras , 13.507812 ) ( Athanasiadou , 12.151164 ) ( Tsoulos , 12.699653 ) ( Blionas , 11.524544 ) ( Vlachos , 3.527858 ) 
+Loop #3: ( Moscholios , 14.3979225 ) ( Boucouvalas , 0.0 ) ( Politi , 8.055855 ) ( Stavdas , 13.320007 ) ( Malamatos , 12.859453 ) ( Yiannopoulos , 10.35925 ) ( Maras , 10.218095 ) ( Platis , 7.5103126 ) ( Koutras , 13.513094 ) ( Athanasiadou , 12.158164 ) ( Tsoulos , 12.711913 ) ( Blionas , 11.52598 ) ( Vlachos , 3.4179828 ) 
+Don't exist any changes, k-means stop.

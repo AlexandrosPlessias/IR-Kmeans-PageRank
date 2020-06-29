@@ -1,0 +1,7 @@
+K-means in Mode 1 for first L(2174) terms.
+Loop number: ( DEPname , Euclidean Distance )...
+
+Loop #1:  ( Peppas , 15.361785 )  ( Lepouras , 18.059649 )  ( Tselikas , 15.867923 )  ( Vassilakis , 0.0 )  ( Simos , 20.400648 )  ( Glentis , 16.794233 )  ( Skiadopoulos , 18.144466 )  ( Masselos , 21.000729 )  ( Kaloxylos , 15.7470455 )  ( Sagias , 15.802066 )  ( Wallace , 20.57379 )  ( Tryfonopoulos , 16.816902 ) 
+Loop #2:  ( Peppas , 15.394315 )  ( Lepouras , 17.978231 )  ( Kolokotronis , 15.624662 )  ( Tselikas , 15.85939 )  ( Vassilakis , 0.0 )  ( Simos , 20.380142 )  ( Glentis , 16.818766 )  ( Skiadopoulos , 18.118196 )  ( Masselos , 20.901558 )  ( Kaloxylos , 15.77068 )  ( Sagias , 15.818593 )  ( Wallace , 20.467928 )  ( Tryfonopoulos , 16.820997 ) 
+Loop #3:  ( Peppas , 15.38927 )  ( Lepouras , 17.983395 )  ( Kolokotronis , 15.61665 )  ( Tselikas , 15.857874 )  ( Vassilakis , 0.0 )  ( Simos , 20.380835 )  ( Glentis , 16.8143 )  ( Skiadopoulos , 18.118586 )  ( Masselos , 20.909195 )  ( Kaloxylos , 15.766113 )  ( Sagias , 15.81507 )  ( Wallace , 20.475908 )  ( Tryfonopoulos , 16.818249 ) 
+Don't exist any changes, k-means stop.
